@@ -1,7 +1,9 @@
 package com.neotech.lesson02;
 
 public class Variables {
-
+// Gena changes
+	
+	
 	public static void main(String[] args) {
 
 		//Data Type 		name/identifier			operator 		value
