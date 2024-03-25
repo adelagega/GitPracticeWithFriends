@@ -1,6 +1,8 @@
 package com.neotech.lesson02;
 
 public class CommentDemo {
+	
+	//my first change - adela
 
 	//this is the main method. I generated it when I created the class but I could 
 	//also write main and then CTRL + SPACE.
